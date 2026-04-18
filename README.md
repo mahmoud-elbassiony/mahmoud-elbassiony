@@ -29,7 +29,7 @@ I'm a **Frontend Developer** specializing in building **responsive**, **accessib
 
 ## 🌟 Projects
 
-### 📊 Admin Dashboard _(Private)_
+### 📊 [Admin Dashboard](https://admin-dashboard-demo-alpha.vercel.app/) (Demo version)
 
 **Tech Stack:** Next.js, TypeScript, Tailwind CSS, React Hook Form, Zod, TanStack Query, next-intl  
 **Features:** Authentication, Authorization with roles and permissions, multilingual support, user-friendly interface
@@ -53,7 +53,7 @@ I'm a **Frontend Developer** specializing in building **responsive**, **accessib
 ## 📬 Let's Connect
 
 - 📧 **Email:** [mahmoud.elbassiouny95@gmail.com](mailto:mahmoud.elbassiouny95@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/mahmoud-elbassiony](https://linkedin.com/in/mahmoud-elbassiony)
+- 💼 **LinkedIn:** [linkedin.com/in/mahmoud-elbassiouny](https://linkedin.com/in/mahmoud-elbassiouny)
 
 ---
 
